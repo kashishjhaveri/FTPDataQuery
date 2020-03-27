@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPDataQuery", "FTPDataQuery\FTPDataQuery.csproj", "{B6E723C8-F0A6-4452-A1B6-02A4894B2933}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6E723C8-F0A6-4452-A1B6-02A4894B2933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E723C8-F0A6-4452-A1B6-02A4894B2933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E723C8-F0A6-4452-A1B6-02A4894B2933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E723C8-F0A6-4452-A1B6-02A4894B2933}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE7A780F-4B04-47C4-9254-5B8377F1A117}
+	EndGlobalSection
+EndGlobal
