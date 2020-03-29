@@ -6,7 +6,7 @@ namespace FTPDataQuery.Models
 {
     class Constants
     {
-        public readonly Student Student = new Student { StudentID = "200448232", FirstName = "Kashish", LastName = "Dyck" };
+        public readonly Student Student = new Student { StudentID = "200448232", FirstName = "Kashish", LastName = "Jhaveri" };
 
         public class Locations
         {
